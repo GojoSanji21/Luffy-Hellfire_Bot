@@ -25,7 +25,7 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "1683225887"))
 SUPPORT_GROUP = os.environ.get("SUPPORT_GROUP", "-1002361458256")
 
 #Port
-PORT = os.environ.get("PORT", "8080")
+PORT = os.environ.get("PORT", "112")
 
 #Database --⚠️ REQUIRED--
 DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://sagatobots00001:sagatobots100@cluster00001.vgdshkw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster00001")
