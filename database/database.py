@@ -1,6 +1,6 @@
 
 import motor.motor_asyncio
-from config import DB_URI, DB_NAME
+from plugins.FORMATS import DB_URI, DB_NAME
 
 class SidDataBase:
 
