@@ -27,9 +27,6 @@ SUPPORT_GROUP = os.environ.get("SUPPORT_GROUP", "-1002361458256")
 #Port
 PORT = os.environ.get("PORT", "5000")
 
-#Database --⚠️ REQUIRED--
-DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://sagatobots00001:sagatobots100@cluster00001.vgdshkw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster00001")
-DB_NAME = os.environ.get("DATABASE_NAME", "monkey_d_luffy_file_bot")
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
