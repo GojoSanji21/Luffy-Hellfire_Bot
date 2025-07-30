@@ -2,6 +2,11 @@
 
 #text formatting....
 
+#Database --⚠️ REQUIRED--
+DB_URI = "mongodb+srv://sagatobots00001:sagatobots100@cluster00001.vgdshkw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster00001"
+DB_NAME = "monkey_d_luffy_file_bot"
+#Database --⚠️
+                        
 on_pic = "https://ibb.co/mCBwVrTJ"
 off_pic = "https://ibb.co/SHTrqkw"
 files_cmd_pic = "https://envs.sh/Nyc.jpg"
